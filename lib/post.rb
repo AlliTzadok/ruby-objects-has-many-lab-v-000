@@ -6,7 +6,7 @@ class Post
     @title = title
   end
 
-  
+
 
 
 
